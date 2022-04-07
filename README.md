@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on applying ML in Retail and Finance Projects
 
-- 💬 Ask me about Machine Learning and Artificail Intelligence
+- 💬 Ask me about Machine Learning and Artificial Intelligence
 
 - 📫 How to reach me: pjalpa015@gmail.com or https://www.linkedin.com/in/pjalpa015/
 
