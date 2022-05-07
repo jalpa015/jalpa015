@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
  [![Jalpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalpa015&show_icons=true&theme=dracula)](https://github.com/jalpa015/github-readme-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalpa015&hide=php&theme=dracula&langs_count=8&layout=compact)](https://github.com/jalpa015/github-readme-stats)
+ [![Top Langs](https://github-readme-stats-amber-two.vercel.app/api/top-langs/?username=jalpa015&hide=php&theme=dracula&langs_count=10&layout=compact&exclude_repo=DL_analysis_Malware_Prediction,MovieSuccess,NLP_Identify_informative_Tweets,RL_Resource_Allocation,Exploring_NLP)](https://github.com/jalpa015/github-readme-stats)
  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalpa015&hide=php&theme=dracula&langs_count=8)](https://github.com/jalpa015/github-readme-stats)  -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalpa015&hide=php&theme=dracula)](https://github.com/jalpa015/github-readme-stats)  -->
 
 <!--  [![Readme Card](https://github-readme-stats.vercel.app/api?username=jalpa015&repo=github-readme-stats)](https://github.com/jalpa015/github-readme-stats) -->
