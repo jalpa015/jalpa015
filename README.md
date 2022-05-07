@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 -->
 
-- 🔭 I’m currently working on Revenue Forecasting for Master's thesis
+- ⚡ I’m currently working on Revenue Forecasting for Master's thesis
 
-- 👯 I’m looking to collaborate on applying ML in Retail and Finance Projects
+- 🌱 I’m looking to collaborate on applying ML in Retail and Finance Projects
 
 - 💬 Ask me about Machine Learning and Artificial Intelligence
 
