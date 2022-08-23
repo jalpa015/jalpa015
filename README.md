@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: pjalpa015@gmail.com or https://www.linkedin.com/in/pjalpa015/
 
-- 😄 Pronouns: She/Her
+- 😄 My website [jalpa.me](https://jalpa.me/)
 
 
 
