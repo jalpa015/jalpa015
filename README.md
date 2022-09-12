@@ -1,4 +1,4 @@
-### Hi there 👋, I am Jalpa Patel
+## Hi there 👋, I am Jalpa Patel
 
 ![](https://komarev.com/ghpvc/?username=jalpa015&color=blue)
 
